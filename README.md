@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C++ (OOP, Data Structures)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/muhammad-hasannn](https://github.com/muhammad-hasannn)
-
 - 📫 How to reach me **https://www.linkedin.com/in/muhammad-hasann/**
 
 <h3 align="left">Connect with me:</h3>
