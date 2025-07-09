@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ (OOP, Data Structures)**
 
-- 📫 How to reach me **https://www.linkedin.com/in/muhammad-hasann/**
+- 📫 How to reach me **https://www.linkedin.com/in/muhammad-hasannn/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
