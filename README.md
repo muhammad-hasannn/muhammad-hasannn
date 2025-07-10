@@ -4,9 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Future+Developer;Building+C%2B%2B+Projects;Learning+Data+Structures+%26+OOP;Code+%7C+Learn+%7C+Build+%7C+Repeat" alt="Typing SVG" />
 </div>
 
+<!--
 <div align="center">
   <img src="https://github.com/muhammad-hasannn/muhammad-hasannn/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+-->
 
 ---
 
@@ -33,9 +35,11 @@ public:
 
 ## 🔥 Current Journey
 
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-hasannn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+-->
 
 - 🔭 **Currently Building:** C++ mini-projects that solve real-world problems
 - 🌱 **Learning Focus:** Object-Oriented Programming & Data Structures
