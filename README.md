@@ -6,6 +6,10 @@
 
 ---
 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=muhammad-hasannn&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
+
 ## 🚀 About Me
 
 ```cpp
@@ -27,7 +31,6 @@ public:
 ---
 
 ## 🔥 Current Journey
-
 
 - 🔭 **Currently Building:** C++ mini-projects that solve real-world problems
 - 🌱 **Learning Focus:** Object-Oriented Programming & Data Structures
@@ -61,13 +64,11 @@ public:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muhammad-hasannn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=320"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hasannn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammad-hasannn&show_icons=true&theme=tokyonight&hide_border=true&card_width=400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hasannn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400"/>
 </div>
 
-
 ---
-
 
 ## 🤝 Let's Connect & Collaborate
 
