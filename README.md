@@ -63,10 +63,11 @@ public:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammad-hasannn&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hasannn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=380"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammad-hasannn&show_icons=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hasannn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ---
 
